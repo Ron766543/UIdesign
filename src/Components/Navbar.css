@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 10px 5px 10px;
+    margin-bottom: 4px;
+    margin-top: 15px;
+}
+
+.navbar h2{
+    border:1px solid black;
+    border-radius: 30px;
+    width: max-content;
+    padding: 10px;
+    color: white;
+    background: #000;
+    margin-left: 15px;
+}
+
+.navbar h4{
+    display: flex;
+    gap: 10px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
