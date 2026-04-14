@@ -22,7 +22,7 @@ This project showcases a clean layout, reusable components, and modern design pr
 ---
 
 ## 📂 Project Structure
-
+<pre>
 UI_Design/
 │── public/
 │── src/
@@ -33,7 +33,7 @@ UI_Design/
 │   └── styles/
 │── package.json
 │── README.md
-
+</pre>
 
 
 ---
@@ -41,14 +41,17 @@ UI_Design/
 ##  Getting Started
 
 ### 1. Clone the repository
-
+<pre>
 git clone https://github.com/Ron766543/UIdesign.git
 cd UIdesign
+</pre>
 
 ### 2. Install dependencies
-
+<pre>
 npm install
+</pre>
 
 ### 3. Run the project
-
+<pre>
 npm start
+</pre>
